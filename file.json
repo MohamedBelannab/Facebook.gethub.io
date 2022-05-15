@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Atwal wa7ed fi 9issem dev101",
+    "answer_1": "soufaine",
+    "answer_2": "ismail",
+    "answer_3": "Annas",
+    "answer_4": "yassine",
+    "right_answer": "yassine"
+  },
+  {
+    "title": "a7ssan groube fi ista",
+    "answer_1": "DEV 101",
+    "answer_2": "DEV 104",
+    "answer_3": "DEV103",
+    "answer_4": "DEV 101",
+    "right_answer": "DEV 101"
+  },
+  {
+    "title": "li ma3amero ghayb fi DEV 101",
+    "answer_1": "Aymane",
+    "answer_2": "Wassim",
+    "answer_3": "Ismail Tamesna",
+    "answer_4": "Mokalafa",
+    "right_answer": "wassim"
+  },
+  {
+    "title": "sa7ib ma9ola chahira 'aaa lbas tabliya '",
+    "answer_1": "Samir l3azi",
+    "answer_2": "Hala derayf",
+    "answer_3": "Elcharifa Harak",
+    "answer_4": "Administration (ma3raftch smiya)",
+    "right_answer": "Samir l3azi"
+  },
+  {
+    "title": "chekon li s7i7 fi DEV101",
+    "answer_1": "Ana (Mohamed) ",
+    "answer_2": "Ismail Tahiri",
+    "answer_3": "soufaine",
+    "answer_4": "driss",
+    "right_answer": "Ismail Tahiri"
+  },
+  {
+    "title": "chekon li ba9i wa7el fl HTML - CSS",
+    "answer_1": "Wassim",
+    "answer_2": "Annas",
+    "answer_3": "ismail (cheb l3arbi)",
+    "answer_4": "elcharifa harak",
+    "right_answer": "elcharifa harak"
+  },
+
+  {
+    "title": "a7ssan oustad / oustada ",
+    "answer_1": "hala poo",
+    "answer_2": "mouad php ",
+    "answer_3": "charifa html",
+    "answer_4": "soufaine 7ariis",
+    "right_answer": "soufaine 7ariis"
+  },
+  {
+    "title": " chewiya html wassim , Annas  ",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  },
+  {
+    "title": " nzid nkml f hadchi ",
+    "answer_1": "la",
+    "answer_2": "ah",
+    "answer_3": "maso9ich",
+    "answer_4": "ah / la",
+    "right_answer": "khali ljawab dylk 3andk :O"
+  }
+]
